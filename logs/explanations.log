@@ -1,0 +1,80 @@
+[2025-06-13T20:37:03.312Z] REQUEST: test
+[2025-06-13T20:37:03.450Z] ERROR: model 'llama3' not found
+
+[2025-06-13T20:40:23.963Z] REQUEST: test
+[2025-06-13T20:40:24.004Z] ERROR: model 'llama3' not found
+
+[2025-06-13T20:40:41.060Z] REQUEST: Indian Politics
+[2025-06-13T20:40:41.077Z] ERROR: model 'llama3' not found
+
+[2025-06-13T20:40:44.680Z] REQUEST: Indian Politics
+[2025-06-13T20:40:44.687Z] ERROR: model 'mistral' not found
+
+[2025-06-13T20:42:00.681Z] REQUEST: Indian Politics
+[2025-06-13T20:42:00.717Z] ERROR: model 'mistral' not found
+
+[2025-06-13T20:42:01.370Z] REQUEST: Indian Politics
+[2025-06-13T20:42:01.383Z] ERROR: model 'mistral' not found
+
+[2025-06-13T20:42:02.102Z] REQUEST: Indian Politics
+[2025-06-13T20:42:02.117Z] ERROR: model 'mistral' not found
+
+[2025-06-13T21:06:24.512Z] REQUEST: Indian Politics
+[2025-06-13T21:06:24.512Z] RESPONSE:  Indian Politics refers to the system of governance and decision-making in India. It includes the political parties, elections, laws, policies, and leaders who make decisions on behalf of the people.
+
+The system is democratic, meaning that power is held by the people, who elect representatives (usually from major political parties like the Bharatiya Janata Party or Indian National Congress) to represent them in Parliament and state assemblies at various levels. These elected officials then make laws and policies for the country or a specific region.
+
+Indian Politics is influenced by a variety of factors, including social, economic, regional, and ideological considerations. There are also numerous political movements, protests, and debates happening at any given time, reflecting the diversity and complexity of Indian society.
+
+The ultimate goal of Indian Politics is to ensure good governance, development, and welfare for all citizens while maintaining peace, unity, and democracy in the country.
+
+[2025-06-13T21:07:23.727Z] REQUEST: Indian Politics
+[2025-06-13T21:07:23.727Z] RESPONSE:  Indian Politics refers to the system of governance and decision-making within India. This includes all aspects related to political parties, elections, law-making, policy-making, and leadership at central and state levels. It's a complex and dynamic system that reflects the diversity, traditions, and aspirations of India's multiethnic and multicultural society.
+
+India is a federal parliamentary democratic republic, meaning:
+
+1. Federal: Power is divided between the Union (Central) government and the States. Both have separate spheres of power but also share some responsibilities.
+
+2. Parliamentary: The President is the head of state, but the Prime Minister, who leads the party with a majority in the Lok Sabha (House of the People), is the head of government and exercises executive power.
+
+3. Democratic: Citizens have the right to vote and elect their representatives at regular intervals. The principle of "one person, one vote" ensures equal representation for all.
+
+4. Republic: India's system of governance is not monarchical; instead, the President is elected by the people every five years.
+
+Indian politics also includes various political parties, from national parties like the Bharatiya Janata Party (BJP) and Indian National Congress (INC), to regional parties that focus on specific states or regions. The electoral system follows a first-past-the-post model, where the candidate with the most votes in a constituency wins the seat.
+
+It's important to note that Indian politics is influenced by numerous factors, including historical legacies, socio-economic conditions, ideologies, and coalition dynamics. The political landscape is constantly evolving as new parties emerge, alliances are formed, and policies are debated and implemented.
+
+[2025-06-13T21:10:45.908Z] REQUEST: Indian Politics
+[2025-06-13T21:10:45.908Z] RESPONSE:  Indian politics refers to the governance and political system of India, which is a federal parliamentary democratic republic. Here's a simplified explanation:
+
+1. Federal: This means that India is made up of 28 states and 8 Union territories, each with its own government, but there is also a central government in New Delhi that has certain powers over the entire country.
+
+2. Parliamentary Democratic Republic: This means that India follows a democratic system of government where citizens have the right to vote, and elected representatives form the government. The President is the head of state, while the Prime Minister (elected by the majority party in Parliament) is the head of government. The Parliament consists of two houses: the Rajya Sabha (Council of States or Upper House) and the Lok Sabha (House of the People or Lower House).
+
+3. Political Parties: In Indian politics, political parties play a crucial role in forming the government at both the state and national levels. There are various political parties in India, with two major ones being the Bharatiya Janata Party (BJP) and the Indian National Congress (INC). Smaller parties may also form alliances with these larger parties to increase their influence.
+
+4. Elections: General elections are held every 5 years to elect members of the Lok Sabha. State elections can be held at different intervals, depending on the state's rules. During an election, citizens above a certain age vote for their chosen candidate or party.
+
+5. Policy Making and Implementation: The elected representatives make laws, set policies, and work towards implementing them to improve the lives of Indian citizens. Issues like poverty, education, health care, and employment are some of the key areas where policy-making and implementation take place.
+
+6. Political Discussions and Debates: In Indian politics, there are constant discussions and debates about various issues and policies. These debates can happen in Parliament, in political rallies, or in the media. They aim to influence public opinion and shape the course of policy-making.
+
+[2025-06-13T21:14:03.858Z] REQUEST: Trumph's married life
+[2025-06-13T21:14:03.858Z] RESPONSE:  Trump's married life refers to the marital relationships of Donald J. Trump, a former U.S. President. He has been married three times:
+
+1. Ivana Zelnickova (1977-1992) - They had three children together: Donald Jr., Ivanka, and Eric.
+
+2. Marla Maples (1993-1999) - They have one daughter, Tiffany.
+
+3. Melania Knauss (since 2005) - They have one son, Barron.
+
+Each of these marriages was marked by controversy and public scrutiny, often related to Trump's personal behavior and infidelity allegations.
+
+[2025-06-13T21:17:11.251Z] REQUEST: Uk's prime minister list and tenures
+[2025-06-13T21:17:11.251Z] RESPONSE:  The United Kingdom's Prime Minister is the head of government, responsible for leading the executive branch. Here's a simplified explanation of their list and tenures:
+
+1. List: The list refers to the sequence of individuals who have held the position of Prime Minister in the UK. This list begins with Sir Robert Walpole, who is often recognized as the first de facto Prime Minister, serving from 1721 to 1742. Since then, there have been many more Prime Ministers, including Winston Churchill, Margaret Thatcher, and Theresa May, among others.
+
+2. Tenures: A tenure refers to the period that a specific Prime Minister has served in office. Each Prime Minister's term begins when they are appointed by the Monarch (currently Queen Elizabeth II) and ends when they either resign, are dismissed by the Monarch, or die. The length of these terms can vary greatly, with some Prime Ministers serving for just a few months, while others serve for many years. For example, Winston Churchill served as Prime Minister on two separate occasions, the first time from 1940 to 1945 and the second time from 1951 to 1955.
+
